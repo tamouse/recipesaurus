@@ -1,0 +1,43 @@
+{
+  "docs": {
+    "Recipes": ["intro"],
+    "Appetizers": [
+      "apps/bacon-blue-cheese-dip",
+      "apps/baked-nachos"
+    ],
+    "Baked Goods": [
+      "baked/garlic-cheese-biscuits"
+    ],
+    "Desserts": [
+      "desserts/carrot-cake"
+    ],
+    "Drinks": [
+      "drinks/banana-cantaloup-smoothie"
+    ],
+    "Main Dishes": [
+      "main/apricot-chicken",
+      "main/apricot-glazed-turkey"
+    ],
+    "Pizza": [
+      "pizza/pizza-crust"
+    ],
+    "Salads": [
+      "salad/broccoli-salad"
+    ],
+    "Sandwiches": [
+      "sandwiches/bacon-sarnie"
+    ],
+    "Sauces": [
+      "sauces/white-sauce"
+    ],
+    "Side Dishes": [
+      "side/best-corn-pudding"
+    ],
+    "Soups": [
+      "soups/easy-vegetarian-chili"
+    ],
+    "Tips": [
+      "tips/carmelizing-onions"
+    ]
+  }
+}
