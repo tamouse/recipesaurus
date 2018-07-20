@@ -1,0 +1,10 @@
+{
+  "name": "recipesaurus",
+  "version": "1.0.0",
+  "description": "My Recipes Site as a Docusaurus Project",
+  "main": "index.js",
+  "repository": "git@github.com:tamouse/recipesaurus.git",
+  "author": "Tamara Temple <tamouse@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
